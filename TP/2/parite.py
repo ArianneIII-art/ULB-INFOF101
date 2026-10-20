@@ -1,0 +1,1 @@
+print(int(input("x = "))%2==0)
