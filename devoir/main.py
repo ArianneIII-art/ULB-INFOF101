@@ -1,3 +1,5 @@
+# by ArianneIII-art on ghithub and codeberg
+
 # version sans vérification, ni la fonction pseudo privé
 import turtle
 
@@ -42,7 +44,7 @@ if __name__ == "__main__":
     seuil = 10
     offset = -(distance_horizontal/2)
 
-    # met la vitesse au maximum et 
+    # met la vitesse au maximum et
     # positionne le cursuer pour que le centre de la feunetre soit le centre de la fractalle
     init_window_and_position(x=offset, speed=0)
 
