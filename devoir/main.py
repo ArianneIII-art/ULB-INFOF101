@@ -1,3 +1,5 @@
+# Author: ArianneIII-art
+# License: AGPL 3.0 or higher
 # version sans vérification, ni la fonction pseudo privé
 import turtle
 
