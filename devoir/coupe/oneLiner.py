@@ -3,7 +3,9 @@
 # Date: November 23, 2026
 # License: AGPLV3
 
-# To be funnier, i did not iclude the documentation, see the main.py file for the comment and documentation since this file is simply an reimplementation only using oneliner, but the logic is the same. This implementation also lack the load from file because do a merge request if you want it
+# To be funnier, i did not iclude the documentation, 
+# see the main.py file for the comment and documentation since this file is simply an reimplementation only using oneliner,
+# but the logic is the same. This implementation also lack the load from file because do a merge request if you want it
 
 class Player:
     def __init__(self, last_name: str, first_name: str, nationality: str) -> None:
